@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mental Health Resources</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+<style>
+body { 
+  background-image: url(https://wallpaperset.com/w/full/e/4/2/16449.jpg);
+    background-blend-mode: lighten;
+  font-family: Georgia, serif;
+  width: 100%; 
+  height: 1006%;
+}
+</style>
+</head>
+
+<body>
+   <ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="startlearning.html"> Start Learning </a></li>
+  <li><a href="printable.html"> Printables </a></li>
+  <li><a href="resources.html"> Resources </a></li>
+   </ul>
+  <br>
+  <div class="start"<h1> <center>Resources</center>
+  </h1> </div>
+  
+    <header>
+        <h1>Mental Health Resources</h1>
+    </header>
+
+    <main>
+        <section id="resources">
+            <h2>Resources for Mental Health</h2>
+            <ul>
+                <li>
+                    <a href="https://www.nami.org/Home (https://www.nami.org/Home)" target="_blank">NAMI</a>
+                    - The National Alliance on Mental Illness (NAMI) is a prominent grassroots organization in the United States that is dedicated to supporting individuals and families affected by mental illness. NAMI was founded in 1979 and has since become one of the leading advocates for mental health awareness, education, and support.
+                </li>
+                <li>
+                    <a href="https://medlineplus.gov/mentalhealth.html (https://medlineplus.gov/mentalhealth.html)" target="_blank">Medline Plus</a>
+                    - MedlinePlus is a trusted online health information resource provided by the U.S. National Library of Medicine (NLM), which is a part of the National Institutes of Health (NIH). It offers free, up-to-date, and reliable health information for patients, families, and caregivers.
+                </li>
+                <!-- Add more resources as needed -->
+            </ul>
+        </section>
+
+        <section id="hotlines">
+            <h2>Mental Health Hotlines</h2>
+            <ul>
+                <li>
+                    <strong>Disaster Distress Helpline:</strong> 800-985-5990.
+                </li>
+                <li>
+                    <strong>988 Lifeline:</strong> 988
+                </li>
+                <!-- Add more hotlines as n
+eeded -->
+            </ul>
+        </section>
+    </main>
+
+</body>
+</html>
