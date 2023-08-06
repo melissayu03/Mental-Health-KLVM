@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+  <div class="container">
+    <video autoplay loop muted plays-inline class="background-clip">
+      <source src="back.mp4" type="video/mp4">
+    </video> 
+
+    <div class="content">
+      <h1>Mental Health</h1>
+      <a href="startlearning.html"> Start Learning </a>
+      <a href="printable.html"> Printables </a> 
+      <a href="resources.html"> Resources </a>
+    </div>
+  </div>
+</body>
+</html>
