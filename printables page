@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+<style>
+
+body { 
+  background-image: url(https://wallpapers.com/images/high/aesthetic-abstract-35zwaayhph14dnkg.webp);
+  background-color: rgba(255,255,255,0.7);
+    background-blend-mode: lighten;
+  font-family: Georgia, serif;
+}
+</style>
+  
+</head>
+
+<body>
+  <!-- <img src="https://drive.google.com/uc?id=DRIVE_FILE_ID" alt="Google Drive Image" /> -->
+  <script src="script.js"></script>
+ <ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="startlearning.html"> Start Learning </a></li>
+  <li><a href="printable.html"> Printables </a></li>
+  <li><a href="resources.html"> Resources </a></li>
+   </ul>
+  <br>
+<h1><center>Printables</center></h1>
+  
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://drive.google.com/uc?id=1d27jOscjlsZcN04Na-fAR8JPJ-zX2tUa">
+      <img src="https://drive.google.com/uc?id=1d27jOscjlsZcN04Na-fAR8JPJ-zX2tUa" alt="Cinque Terre" width="600" height="400">
+    </a>
+    <div class="desc">mood tracker</div>
+  </div>
+</div>
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img_forest.jpg">
+      <img src="https://drive.google.com/uc?id=1zFTqP4XNTeGPhgPuQ_zXj7QUif7ZceCx" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">affirmation fortune teller</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://drive.google.com/uc?id=1omSl2qG0QrHYt7xfWW88JfAi_v7kw3WL">
+      <img src="https://drive.google.com/uc?id=1omSl2qG0QrHYt7xfWW88JfAi_v7kw3WL" alt="Northern Lights" width="600" height="400">
+    </a>
+    <div class="desc">healthy activites</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://drive.google.com/uc?id=1_BAMBy6_QSkr4KrabSYnOfW_xViQHUV0">
+      <img src="https://drive.google.com/uc?id=1_BAMBy6_QSkr4KrabSYnOfW_xViQHUV0" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc">journal page</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://mindfulzen.co/wp-content/uploads/2022/05/1-be-patient.jpg">
+      <img src="https://mindfulzen.co/wp-content/uploads/2022/05/1-be-patient.jpg" alt="Coloring1" width="600" height="400">
+    </a>
+    <div class="desc"> coloring page</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://clipart-library.com/coloring/ncXnoKpoi.jpg">
+      <img src="https://clipart-library.com/coloring/ncXnoKpoi.jpg" alt="Coloring2" width="600" height="400">
+    </a>
+    <div class="desc"> coloring page </div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://i.pinimg.com/736x/06/6e/32/066e32f599e194aa5b613b24d7c86990.jpg">
+      <img src="https://i.pinimg.com/736x/06/6e/32/066e32f599e194aa5b613b24d7c86990.jpg" alt="Coloring3" width="600" height="400">
+    </a>
+    <div class="desc"> coloring page </div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://images.squarespace-cdn.com/content/v1/568f476f0ab377cb54afddf7/1584822333182-736LDUBEFBX8PCO2F7XP/ColortinePg1.jpg?format=1000w">
+      <img src="https://images.squarespace-cdn.com/content/v1/568f476f0ab377cb54afddf7/1584822333182-736LDUBEFBX8PCO2F7XP/ColortinePg1.jpg?format=1000w" alt="Coloring4" width="600" height="400">
+    </a>
+    <div class="desc"> coloring page </div>
+  </div>
+</div>
+  <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge-v2.js" theme="dark" position="bottom-right"></script>
+</body>
+
+</html>
