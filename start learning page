@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+<style>
+body {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWSzSDz0Bnwg9AuPynwv-B-vsTnKiqHywj9Q&usqp=CAU');
+  font-family: Georgia, serif;
+}
+</style>
+  
+</head>
+
+<body>
+  <!-- <img src="https://drive.google.com/uc?id=DRIVE_FILE_ID" alt="Google Drive Image" /> -->
+  <script src="script.js"></script>
+ <ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="startlearning.html"> Start Learning </a></li>
+  <li><a href="printable.html"> Printables </a></li>
+  <li><a href="resources.html"> Resources </a></li>
+   </ul>
+  <br>
+  <div class="start"<h1> <center>Start Learning</center>
+  </h1> </div>
+<br>
+  <img class = "stl" src= "https://drive.google.com/uc?id=1pUShZQy7sf2stCf8-jEhXE_8y9OQSXIR">
+<br>
+</body>
+
+</html>
